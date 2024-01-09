@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "2024-01-05_20-24-54")(type "KiCad")(uri "${KIPRJMOD}/DP83TC813R/2024-01-05_20-24-54.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-05_21-03-10")(type "KiCad")(uri "${KIPRJMOD}/2304372-1/2024-01-05_21-03-10.kicad_sym")(options "")(descr ""))
+  (lib (name "B02B-JWPF-SK-R_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/B02B-JWPF-SK-R_LF__SN_/B02B-JWPF-SK-R_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "pmod")(type "Legacy")(uri "${KIPRJMOD}/kicad-pmod/pmod.lib")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "2304372-1")(type "KiCad")(uri "$(KIPRJMOD)/2304372-1/footprints.pretty")(options "")(descr ""))
+  (lib (name "DP83TC813R")(type "KiCad")(uri "$(KIPRJMOD)/DP83TC813R/footprints.pretty")(options "")(descr ""))
+  (lib (name "B02B-JWPF-SK-R_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/B02B-JWPF-SK-R_LF__SN_")(options "")(descr ""))
+  (lib (name "pmod-conn_6x2")(type "KiCad")(uri "${KIPRJMOD}/kicad-pmod/pmod-conn_6x2.pretty")(options "")(descr ""))
+  (lib (name "DLW21SZ181XQ2L")(type "KiCad")(uri "${KIPRJMOD}/DLW21SZ181XQ2L")(options "")(descr ""))
+)
